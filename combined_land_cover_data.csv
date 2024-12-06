@@ -1,0 +1,563 @@
+Year,Land_Cover_Type,Value
+2001,Barren or Sparsely Vegetated,0.0
+2002,Barren or Sparsely Vegetated,6220.0
+2003,Barren or Sparsely Vegetated,-87490.0
+2004,Barren or Sparsely Vegetated,-85181.0
+2005,Barren or Sparsely Vegetated,-30880.0
+2006,Barren or Sparsely Vegetated,-41139.0
+2007,Barren or Sparsely Vegetated,-4163.0
+2008,Barren or Sparsely Vegetated,8602.0
+2009,Barren or Sparsely Vegetated,-46392.0
+2010,Barren or Sparsely Vegetated,-1380.0
+2011,Barren or Sparsely Vegetated,-1134.0
+2012,Barren or Sparsely Vegetated,-8486.0
+2013,Barren or Sparsely Vegetated,6649.0
+2014,Barren or Sparsely Vegetated,13013.0
+2015,Barren or Sparsely Vegetated,9717.0
+2016,Barren or Sparsely Vegetated,16748.0
+2017,Barren or Sparsely Vegetated,4625.0
+2018,Barren or Sparsely Vegetated,1296.0
+2019,Barren or Sparsely Vegetated,3918.0
+2020,Barren or Sparsely Vegetated,20727.0
+2021,Barren or Sparsely Vegetated,50248.0
+2022,Barren or Sparsely Vegetated,29218.0
+2023,Barren or Sparsely Vegetated,10949.0
+2001,Closed Shrublands,0.0
+2002,Closed Shrublands,-167.0
+2003,Closed Shrublands,-190.0
+2004,Closed Shrublands,102.0
+2005,Closed Shrublands,178.0
+2006,Closed Shrublands,263.0
+2007,Closed Shrublands,62.0
+2008,Closed Shrublands,-145.0
+2009,Closed Shrublands,-252.0
+2010,Closed Shrublands,-104.0
+2011,Closed Shrublands,-44.0
+2012,Closed Shrublands,-52.0
+2013,Closed Shrublands,20.0
+2014,Closed Shrublands,43.0
+2015,Closed Shrublands,-31.0
+2016,Closed Shrublands,17.0
+2017,Closed Shrublands,-86.0
+2018,Closed Shrublands,-36.0
+2019,Closed Shrublands,-46.0
+2020,Closed Shrublands,1.0
+2021,Closed Shrublands,-14.0
+2022,Closed Shrublands,-11.0
+2023,Closed Shrublands,19.0
+2001,Cropland/Natural Vegetation Mosaic,0.0
+2002,Cropland/Natural Vegetation Mosaic,-881.0
+2003,Cropland/Natural Vegetation Mosaic,36.0
+2004,Cropland/Natural Vegetation Mosaic,234.0
+2005,Cropland/Natural Vegetation Mosaic,-152.0
+2006,Cropland/Natural Vegetation Mosaic,-158.0
+2007,Cropland/Natural Vegetation Mosaic,-9.0
+2008,Cropland/Natural Vegetation Mosaic,-160.0
+2009,Cropland/Natural Vegetation Mosaic,61.0
+2010,Cropland/Natural Vegetation Mosaic,2.0
+2011,Cropland/Natural Vegetation Mosaic,94.0
+2012,Cropland/Natural Vegetation Mosaic,-29.0
+2013,Cropland/Natural Vegetation Mosaic,179.0
+2014,Cropland/Natural Vegetation Mosaic,41.0
+2015,Cropland/Natural Vegetation Mosaic,65.0
+2016,Cropland/Natural Vegetation Mosaic,23.0
+2017,Cropland/Natural Vegetation Mosaic,-86.0
+2018,Cropland/Natural Vegetation Mosaic,197.0
+2019,Cropland/Natural Vegetation Mosaic,265.0
+2020,Cropland/Natural Vegetation Mosaic,-69.0
+2021,Cropland/Natural Vegetation Mosaic,-402.0
+2022,Cropland/Natural Vegetation Mosaic,-96.0
+2023,Cropland/Natural Vegetation Mosaic,85.0
+2001,Croplands,0.0
+2002,Croplands,-34445.0
+2003,Croplands,70964.0
+2004,Croplands,47172.0
+2005,Croplands,-16148.0
+2006,Croplands,-3817.0
+2007,Croplands,9440.0
+2008,Croplands,-6845.0
+2009,Croplands,40401.0
+2010,Croplands,-18752.0
+2011,Croplands,-13721.0
+2012,Croplands,8322.0
+2013,Croplands,-3280.0
+2014,Croplands,8906.0
+2015,Croplands,-9538.0
+2016,Croplands,-11505.0
+2017,Croplands,-8398.0
+2018,Croplands,5979.0
+2019,Croplands,-652.0
+2020,Croplands,-17613.0
+2021,Croplands,-28871.0
+2022,Croplands,-5336.0
+2023,Croplands,-32922.0
+2001,Deciduous Broadleaf Forest,0.0
+2002,Deciduous Broadleaf Forest,-40.0
+2003,Deciduous Broadleaf Forest,-7.0
+2004,Deciduous Broadleaf Forest,53.0
+2005,Deciduous Broadleaf Forest,-36.0
+2006,Deciduous Broadleaf Forest,-13.0
+2007,Deciduous Broadleaf Forest,148.0
+2008,Deciduous Broadleaf Forest,-74.0
+2009,Deciduous Broadleaf Forest,1.0
+2010,Deciduous Broadleaf Forest,28.0
+2011,Deciduous Broadleaf Forest,137.0
+2012,Deciduous Broadleaf Forest,-34.0
+2013,Deciduous Broadleaf Forest,-96.0
+2014,Deciduous Broadleaf Forest,-12.0
+2015,Deciduous Broadleaf Forest,-48.0
+2016,Deciduous Broadleaf Forest,2.0
+2017,Deciduous Broadleaf Forest,509.0
+2018,Deciduous Broadleaf Forest,-170.0
+2019,Deciduous Broadleaf Forest,-350.0
+2020,Deciduous Broadleaf Forest,51.0
+2021,Deciduous Broadleaf Forest,60.0
+2022,Deciduous Broadleaf Forest,-90.0
+2023,Deciduous Broadleaf Forest,7.0
+2001,Deciduous Needleleaf Forest,0.0
+2002,Deciduous Needleleaf Forest,0.0
+2003,Deciduous Needleleaf Forest,0.0
+2004,Deciduous Needleleaf Forest,0.0
+2005,Deciduous Needleleaf Forest,0.0
+2006,Deciduous Needleleaf Forest,0.0
+2007,Deciduous Needleleaf Forest,0.0
+2008,Deciduous Needleleaf Forest,0.0
+2009,Deciduous Needleleaf Forest,0.0
+2010,Deciduous Needleleaf Forest,0.0
+2011,Deciduous Needleleaf Forest,0.0
+2012,Deciduous Needleleaf Forest,0.0
+2013,Deciduous Needleleaf Forest,0.0
+2014,Deciduous Needleleaf Forest,1.0
+2015,Deciduous Needleleaf Forest,-1.0
+2016,Deciduous Needleleaf Forest,0.0
+2017,Deciduous Needleleaf Forest,0.0
+2018,Deciduous Needleleaf Forest,0.0
+2019,Deciduous Needleleaf Forest,0.0
+2020,Deciduous Needleleaf Forest,0.0
+2021,Deciduous Needleleaf Forest,0.0
+2022,Deciduous Needleleaf Forest,0.0
+2023,Deciduous Needleleaf Forest,4.0
+2001,Evergreen Broadleaf Forest,0.0
+2002,Evergreen Broadleaf Forest,2134.0
+2003,Evergreen Broadleaf Forest,914.0
+2004,Evergreen Broadleaf Forest,2036.0
+2005,Evergreen Broadleaf Forest,-12.0
+2006,Evergreen Broadleaf Forest,160.0
+2007,Evergreen Broadleaf Forest,421.0
+2008,Evergreen Broadleaf Forest,127.0
+2009,Evergreen Broadleaf Forest,1735.0
+2010,Evergreen Broadleaf Forest,2188.0
+2011,Evergreen Broadleaf Forest,565.0
+2012,Evergreen Broadleaf Forest,-335.0
+2013,Evergreen Broadleaf Forest,420.0
+2014,Evergreen Broadleaf Forest,-988.0
+2015,Evergreen Broadleaf Forest,303.0
+2016,Evergreen Broadleaf Forest,-791.0
+2017,Evergreen Broadleaf Forest,-2402.0
+2018,Evergreen Broadleaf Forest,679.0
+2019,Evergreen Broadleaf Forest,2568.0
+2020,Evergreen Broadleaf Forest,638.0
+2021,Evergreen Broadleaf Forest,-1681.0
+2022,Evergreen Broadleaf Forest,-2046.0
+2023,Evergreen Broadleaf Forest,-1292.0
+2001,Evergreen Needleleaf Forest,0.0
+2002,Evergreen Needleleaf Forest,3183.0
+2003,Evergreen Needleleaf Forest,2104.0
+2004,Evergreen Needleleaf Forest,2608.0
+2005,Evergreen Needleleaf Forest,695.0
+2006,Evergreen Needleleaf Forest,1142.0
+2007,Evergreen Needleleaf Forest,1155.0
+2008,Evergreen Needleleaf Forest,373.0
+2009,Evergreen Needleleaf Forest,955.0
+2010,Evergreen Needleleaf Forest,1200.0
+2011,Evergreen Needleleaf Forest,-368.0
+2012,Evergreen Needleleaf Forest,-1231.0
+2013,Evergreen Needleleaf Forest,497.0
+2014,Evergreen Needleleaf Forest,11.0
+2015,Evergreen Needleleaf Forest,-783.0
+2016,Evergreen Needleleaf Forest,-278.0
+2017,Evergreen Needleleaf Forest,-1083.0
+2018,Evergreen Needleleaf Forest,724.0
+2019,Evergreen Needleleaf Forest,563.0
+2020,Evergreen Needleleaf Forest,-678.0
+2021,Evergreen Needleleaf Forest,-941.0
+2022,Evergreen Needleleaf Forest,-1863.0
+2023,Evergreen Needleleaf Forest,188.0
+2001,Grasslands,0.0
+2002,Grasslands,-1359.0
+2003,Grasslands,13669.0
+2004,Grasslands,28785.0
+2005,Grasslands,4290.0
+2006,Grasslands,27583.0
+2007,Grasslands,-12605.0
+2008,Grasslands,6467.0
+2009,Grasslands,42907.0
+2010,Grasslands,-17636.0
+2011,Grasslands,-25295.0
+2012,Grasslands,-7426.0
+2013,Grasslands,-1650.0
+2014,Grasslands,-5040.0
+2015,Grasslands,-7025.0
+2016,Grasslands,-13156.0
+2017,Grasslands,-15130.0
+2018,Grasslands,-8927.0
+2019,Grasslands,-2507.0
+2020,Grasslands,-12211.0
+2021,Grasslands,-18821.0
+2022,Grasslands,-22779.0
+2023,Grasslands,170.0
+2001,Mixed Forest,0.0
+2002,Mixed Forest,-564.0
+2003,Mixed Forest,-55.0
+2004,Mixed Forest,391.0
+2005,Mixed Forest,-375.0
+2006,Mixed Forest,-31.0
+2007,Mixed Forest,160.0
+2008,Mixed Forest,70.0
+2009,Mixed Forest,318.0
+2010,Mixed Forest,457.0
+2011,Mixed Forest,239.0
+2012,Mixed Forest,-165.0
+2013,Mixed Forest,105.0
+2014,Mixed Forest,-41.0
+2015,Mixed Forest,-279.0
+2016,Mixed Forest,-106.0
+2017,Mixed Forest,-103.0
+2018,Mixed Forest,196.0
+2019,Mixed Forest,161.0
+2020,Mixed Forest,147.0
+2021,Mixed Forest,-37.0
+2022,Mixed Forest,-56.0
+2023,Mixed Forest,-260.0
+2001,Open Shrublands,0.0
+2002,Open Shrublands,30750.0
+2003,Open Shrublands,-3973.0
+2004,Open Shrublands,3664.0
+2005,Open Shrublands,45651.0
+2006,Open Shrublands,16823.0
+2007,Open Shrublands,3339.0
+2008,Open Shrublands,-5090.0
+2009,Open Shrublands,-45106.0
+2010,Open Shrublands,35098.0
+2011,Open Shrublands,35896.0
+2012,Open Shrublands,11902.0
+2013,Open Shrublands,-1815.0
+2014,Open Shrublands,-14807.0
+2015,Open Shrublands,2724.0
+2016,Open Shrublands,8850.0
+2017,Open Shrublands,20373.0
+2018,Open Shrublands,-1535.0
+2019,Open Shrublands,-5441.0
+2020,Open Shrublands,9768.0
+2021,Open Shrublands,3926.0
+2022,Open Shrublands,3082.0
+2023,Open Shrublands,19625.0
+2001,Permanent Wetlands,0.0
+2002,Permanent Wetlands,-3333.0
+2003,Permanent Wetlands,-247.0
+2004,Permanent Wetlands,184.0
+2005,Permanent Wetlands,67.0
+2006,Permanent Wetlands,185.0
+2007,Permanent Wetlands,299.0
+2008,Permanent Wetlands,-40.0
+2009,Permanent Wetlands,-45.0
+2010,Permanent Wetlands,46.0
+2011,Permanent Wetlands,219.0
+2012,Permanent Wetlands,55.0
+2013,Permanent Wetlands,58.0
+2014,Permanent Wetlands,-134.0
+2015,Permanent Wetlands,-48.0
+2016,Permanent Wetlands,-137.0
+2017,Permanent Wetlands,-166.0
+2018,Permanent Wetlands,90.0
+2019,Permanent Wetlands,165.0
+2020,Permanent Wetlands,162.0
+2021,Permanent Wetlands,-42.0
+2022,Permanent Wetlands,-106.0
+2023,Permanent Wetlands,123.0
+2001,Savannas,0.0
+2002,Savannas,-2893.0
+2003,Savannas,5183.0
+2004,Savannas,5453.0
+2005,Savannas,-2420.0
+2006,Savannas,-2762.0
+2007,Savannas,1972.0
+2008,Savannas,-4278.0
+2009,Savannas,3571.0
+2010,Savannas,31.0
+2011,Savannas,2194.0
+2012,Savannas,-3812.0
+2013,Savannas,-745.0
+2014,Savannas,-2904.0
+2015,Savannas,3859.0
+2016,Savannas,864.0
+2017,Savannas,1025.0
+2018,Savannas,2096.0
+2019,Savannas,2386.0
+2020,Savannas,-1597.0
+2021,Savannas,-3768.0
+2022,Savannas,2120.0
+2023,Savannas,2325.0
+2001,Snow and Ice,0.0
+2002,Snow and Ice,0.0
+2003,Snow and Ice,0.0
+2004,Snow and Ice,0.0
+2005,Snow and Ice,0.0
+2006,Snow and Ice,0.0
+2007,Snow and Ice,32.0
+2008,Snow and Ice,56.0
+2009,Snow and Ice,-86.0
+2010,Snow and Ice,28.0
+2011,Snow and Ice,-22.0
+2012,Snow and Ice,-8.0
+2013,Snow and Ice,7.0
+2014,Snow and Ice,-7.0
+2015,Snow and Ice,105.0
+2016,Snow and Ice,-75.0
+2017,Snow and Ice,-29.0
+2018,Snow and Ice,43.0
+2019,Snow and Ice,58.0
+2020,Snow and Ice,-75.0
+2021,Snow and Ice,-22.0
+2022,Snow and Ice,-3.0
+2023,Snow and Ice,-2.0
+2001,Unclassified,0.0
+2002,Unclassified,-25.0
+2003,Unclassified,432.0
+2004,Unclassified,179.0
+2005,Unclassified,45.0
+2006,Unclassified,46.0
+2007,Unclassified,-70.0
+2008,Unclassified,-287.0
+2009,Unclassified,988.0
+2010,Unclassified,-552.0
+2011,Unclassified,-296.0
+2012,Unclassified,33.0
+2013,Unclassified,-163.0
+2014,Unclassified,64.0
+2015,Unclassified,-21.0
+2016,Unclassified,-198.0
+2017,Unclassified,103.0
+2018,Unclassified,128.0
+2019,Unclassified,52.0
+2020,Unclassified,-64.0
+2021,Unclassified,-361.0
+2022,Unclassified,-83.0
+2023,Unclassified,-24.0
+2001,Urban and Built-up,0.0
+2002,Urban and Built-up,5.0
+2003,Urban and Built-up,7.0
+2004,Urban and Built-up,10.0
+2005,Urban and Built-up,10.0
+2006,Urban and Built-up,5.0
+2007,Urban and Built-up,7.0
+2008,Urban and Built-up,11.0
+2009,Urban and Built-up,13.0
+2010,Urban and Built-up,5.0
+2011,Urban and Built-up,15.0
+2012,Urban and Built-up,27.0
+2013,Urban and Built-up,13.0
+2014,Urban and Built-up,31.0
+2015,Urban and Built-up,33.0
+2016,Urban and Built-up,11.0
+2017,Urban and Built-up,21.0
+2018,Urban and Built-up,26.0
+2019,Urban and Built-up,33.0
+2020,Urban and Built-up,30.0
+2021,Urban and Built-up,39.0
+2022,Urban and Built-up,53.0
+2023,Urban and Built-up,59.0
+2001,Woody Savannas,0.0
+2002,Woody Savannas,1415.0
+2003,Woody Savannas,-1347.0
+2004,Woody Savannas,-5690.0
+2005,Woody Savannas,-913.0
+2006,Woody Savannas,1713.0
+2007,Woody Savannas,-188.0
+2008,Woody Savannas,1213.0
+2009,Woody Savannas,931.0
+2010,Woody Savannas,-659.0
+2011,Woody Savannas,1521.0
+2012,Woody Savannas,1239.0
+2013,Woody Savannas,-199.0
+2014,Woody Savannas,1823.0
+2015,Woody Savannas,968.0
+2016,Woody Savannas,-269.0
+2017,Woody Savannas,827.0
+2018,Woody Savannas,-786.0
+2019,Woody Savannas,-1173.0
+2020,Woody Savannas,783.0
+2021,Woody Savannas,687.0
+2022,Woody Savannas,-2004.0
+2023,Woody Savannas,946.0
+2024,Barren or Sparsely Vegetated,25965.566917755656
+2025,Barren or Sparsely Vegetated,43507.419495756
+2026,Barren or Sparsely Vegetated,41885.71369324971
+2027,Barren or Sparsely Vegetated,40347.5395983177
+2028,Barren or Sparsely Vegetated,38898.73001635154
+2029,Barren or Sparsely Vegetated,56440.58259435721
+2030,Barren or Sparsely Vegetated,54818.87679189901
+2031,Barren or Sparsely Vegetated,53280.70269693423
+2032,Barren or Sparsely Vegetated,51831.89311497301
+2033,Barren or Sparsely Vegetated,69373.74569300498
+2024,Closed Shrublands,-20.879098582144184
+2025,Closed Shrublands,-17.967128745801972
+2026,Closed Shrublands,-18.790245404716316
+2027,Closed Shrublands,-19.608906239471608
+2028,Closed Shrublands,-20.42193583390843
+2029,Closed Shrublands,-17.5099659975652
+2030,Closed Shrublands,-18.333082656470317
+2031,Closed Shrublands,-19.151743491231667
+2032,Closed Shrublands,-19.96477308566834
+2033,Closed Shrublands,-17.052803249319297
+2024,Cropland/Natural Vegetation Mosaic,120.36928574813142
+2025,Cropland/Natural Vegetation Mosaic,1.141482255596742
+2026,Cropland/Natural Vegetation Mosaic,50.235589231127165
+2027,Cropland/Natural Vegetation Mosaic,99.66371556030391
+2028,Cropland/Natural Vegetation Mosaic,149.3739304947586
+2029,Cropland/Natural Vegetation Mosaic,30.146127002160934
+2030,Cropland/Natural Vegetation Mosaic,79.24023397727825
+2031,Cropland/Natural Vegetation Mosaic,128.66836030673963
+2032,Cropland/Natural Vegetation Mosaic,178.37857524116475
+2033,Cropland/Natural Vegetation Mosaic,59.15077174833155
+2024,Croplands,-13332.975118190792
+2025,Croplands,-26360.034247089432
+2026,Croplands,-24083.412812892508
+2027,Croplands,-21788.88824484427
+2028,Croplands,-19481.14119372253
+2029,Croplands,-32508.200322626988
+2030,Croplands,-30231.57888846768
+2031,Croplands,-27937.054320393217
+2032,Croplands,-25629.307269274675
+2033,Croplands,-38656.366398200014
+2024,Deciduous Broadleaf Forest,-40.67015950825165
+2025,Deciduous Broadleaf Forest,17.736645201563462
+2026,Deciduous Broadleaf Forest,-4.889693420400512
+2027,Deciduous Broadleaf Forest,-25.688373855477984
+2028,Deciduous Broadleaf Forest,-44.63542452704361
+2029,Deciduous Broadleaf Forest,13.771380182768212
+2030,Deciduous Broadleaf Forest,-8.854958438977519
+2031,Deciduous Broadleaf Forest,-29.65363887419605
+2031,Deciduous Broadleaf Forest,-29.65363887419605
+2032,Deciduous Broadleaf Forest,-48.600689545719405
+2033,Deciduous Broadleaf Forest,9.806115164198664
+2024,Deciduous Needleleaf Forest,0.7154318352219474
+2025,Deciduous Needleleaf Forest,0.6769981988483091
+2026,Deciduous Needleleaf Forest,0.7598306357584432
+2027,Deciduous Needleleaf Forest,0.8289204432482307
+2028,Deciduous Needleleaf Forest,0.8842336165896478
+2029,Deciduous Needleleaf Forest,0.8457999802162286
+2030,Deciduous Needleleaf Forest,0.9286324171259268
+2031,Deciduous Needleleaf Forest,0.9977222246159088
+2032,Deciduous Needleleaf Forest,1.0530353979571665
+2033,Deciduous Needleleaf Forest,1.0146017615835634
+2024,Evergreen Broadleaf Forest,-544.8607497877315
+2025,Evergreen Broadleaf Forest,-1461.3861083313484
+2026,Evergreen Broadleaf Forest,-1281.2683531191096
+2027,Evergreen Broadleaf Forest,-1108.3621072689823
+2028,Evergreen Broadleaf Forest,-942.9988283643964
+2029,Evergreen Broadleaf Forest,-1859.5241869082845
+2030,Evergreen Broadleaf Forest,-1679.4064316988247
+2031,Evergreen Broadleaf Forest,-1506.5001858468054
+2032,Evergreen Broadleaf Forest,-1341.1369069425634
+2033,Evergreen Broadleaf Forest,-2257.662265487923
+2024,Evergreen Needleleaf Forest,-1023.752644341926
+2025,Evergreen Needleleaf Forest,-1393.0333000161604
+2026,Evergreen Needleleaf Forest,-1417.2255166906607
+2027,Evergreen Needleleaf Forest,-1460.6187864178414
+2028,Evergreen Needleleaf Forest,-1523.311594839828
+2029,Evergreen Needleleaf Forest,-1892.59225051384
+2030,Evergreen Needleleaf Forest,-1916.7844671893763
+2031,Evergreen Needleleaf Forest,-1960.1777369159583
+2032,Evergreen Needleleaf Forest,-2022.870545338234
+2033,Evergreen Needleleaf Forest,-2392.151201012708
+2024,Grasslands,-17516.480392503647
+2025,Grasslands,-18332.913987574557
+2026,Grasslands,-19845.176535727674
+2027,Grasslands,-21267.700404580493
+2028,Grasslands,-22600.301057108627
+2029,Grasslands,-23416.734652180952
+2030,Grasslands,-24928.99720033145
+2031,Grasslands,-26351.52106918547
+2032,Grasslands,-27684.12172171236
+2033,Grasslands,-28500.555316783782
+2024,Mixed Forest,47.64987195643167
+2025,Mixed Forest,-22.428770270311976
+2026,Mixed Forest,0.9124146113141762
+2027,Mixed Forest,24.654260231154577
+2028,Mixed Forest,48.76824552680409
+2029,Mixed Forest,-21.31039669998148
+2030,Mixed Forest,2.0307881814175985
+2031,Mixed Forest,25.772633801419584
+2032,Mixed Forest,49.88661909704942
+2033,Mixed Forest,-20.19202312986048
+2024,Open Shrublands,5350.116296889697
+2025,Open Shrublands,3510.206003224641
+2026,Open Shrublands,3868.6102462429335
+2027,Open Shrublands,4146.873018980879
+2028,Open Shrublands,4344.353882714182
+2029,Open Shrublands,2504.4435890497643
+2030,Open Shrublands,2862.847832061867
+2031,Open Shrublands,3141.110604803629
+2032,Open Shrublands,3338.591468535549
+2033,Open Shrublands,1498.6811748682069
+2024,Permanent Wetlands,370.1294089259645
+2025,Permanent Wetlands,196.81482144824489
+2026,Permanent Wetlands,280.9915542724759
+2027,Permanent Wetlands,380.1539055105652
+2028,Permanent Wetlands,494.2162346807868
+2029,Permanent Wetlands,320.9016472027174
+2030,Permanent Wetlands,405.0783800264553
+2031,Permanent Wetlands,504.2407312649625
+2032,Permanent Wetlands,618.3030604353249
+2033,Permanent Wetlands,444.98847295686255
+2024,Savannas,963.198184016608
+2025,Savannas,-98.66970318126096
+2026,Savannas,275.51231550694894
+2027,Savannas,636.8374163126682
+2028,Savannas,984.8700522020448
+2029,Savannas,-76.99783499608924
+2030,Savannas,297.18418368844345
+2031,Savannas,658.5092844966157
+2032,Savannas,1006.541920385538
+2033,Savannas,-55.32596681456454
+2024,Snow and Ice,-0.5905229655858335
+2025,Snow and Ice,-12.029528320186454
+2026,Snow and Ice,-8.342410133568066
+2027,Snow and Ice,-5.201091571188599
+2028,Snow and Ice,-2.6100277057778456
+2029,Snow and Ice,-14.049033060373851
+2030,Snow and Ice,-10.361914873798176
+2031,Snow and Ice,-7.220596311392832
+2032,Snow and Ice,-4.6295324459914085
+2033,Snow and Ice,-16.06853780060791
+2024,Unclassified,-173.75406186397228
+2025,Unclassified,-67.46031847020672
+2026,Unclassified,-116.16395760641969
+2027,Unclassified,-163.9177173878118
+2028,Unclassified,-210.67504488072944
+2029,Unclassified,-104.38130148692228
+2030,Unclassified,-153.08494062274232
+2031,Unclassified,-200.8387004044053
+2032,Unclassified,-247.5960278972673
+2033,Unclassified,-141.30228450325916
+2024,Urban and Built-up,44.662590114717375
+2025,Urban and Built-up,45.62343129292269
+2026,Urban and Built-up,48.46746307897763
+2027,Urban and Built-up,50.83457105875833
+2028,Urban and Built-up,52.72429698416374
+2029,Urban and Built-up,53.68513816237736
+2030,Urban and Built-up,56.52916994842306
+2031,Urban and Built-up,58.896277928206615
+2032,Urban and Built-up,60.78600385360696
+2033,Urban and Built-up,61.74684503181753
+2024,Woody Savannas,59.64697808337184
+2025,Woody Savannas,833.081945999809
+2026,Woody Savannas,629.4994716615953
+2027,Woody Savannas,417.485654289028
+2028,Woody Savannas,197.3400946732143
+2029,Woody Savannas,970.7750625901676
+2030,Woody Savannas,767.1925882542863
+2031,Woody Savannas,555.1787708800273
+2032,Woody Savannas,335.0332112643721
+2033,Woody Savannas,1108.4681791826256
