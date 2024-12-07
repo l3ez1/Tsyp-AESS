@@ -147,5 +147,3 @@ This project contributes to the following SDGs:
 - **Goal 15: Life on Land**: Facilitates data-driven decision-making to protect terrestrial ecosystems.
 
 ---
-
-Let me know if you'd like additional edits or visuals to include in the repository!
